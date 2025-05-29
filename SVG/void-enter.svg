@@ -10,7 +10,7 @@
    xml:space="preserve"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="void-enter.svg"
-   inkscape:export-filename="void-enter.png"
+   inkscape:export-filename="../PNG/void-enter.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,13 +27,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.62481198"
-     inkscape:cx="845.85446"
+     inkscape:cx="845.05422"
      inkscape:cy="483.34541"
-     inkscape:window-width="1910"
-     inkscape:window-height="1048"
+     inkscape:window-width="1237"
+     inkscape:window-height="1080"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg1" /><defs
      id="defs1"><rect
        x="443.33337"
@@ -46,7 +46,7 @@
      width="1920"
      height="1080"
      x="0"
-     y="1.7582418"
+     y="0"
      inkscape:label="background" /><g
      id="g20"
      transform="translate(135.80737,730.85417)"
@@ -94,4 +94,4 @@
      transform="translate(-4.8014444,41.612519)"><tspan
        x="443.33398"
        y="885.36922"
-       id="tspan2">Enter the void.</tspan></text></svg>
+       id="tspan1">Enter the void.</tspan></text></svg>
